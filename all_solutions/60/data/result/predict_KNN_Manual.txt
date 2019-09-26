@@ -1,0 +1,86 @@
+Banco de Dados: num_padronizado_MomCent_OpenCv.txt
+Quantidade de atributos: 7
+Numero de classes: 10
+Percentual de Treino: 60.00 %
+
+Taxa de acerto: 0.95
+Percentual de ACERTO: 94.52 %
+
+				 MATRIZ CONFUSÃO
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Classes	    0	    1	    2	    3	    4	    5	    6	    7	    8	    9	
+
+    0	    399	    0	    1	    0	    0	    10	    9	    0	    152	    1	
+
+    1	    0	    737	    0	    0	    0	    0	    0	    0	    0	    0	
+
+    2	    2	    0	    739	    1	    0	    3	    0	    0	    5	    2	
+
+    3	    2	    0	    1	    672	    1	    0	    0	    0	    0	    0	
+
+    4	    0	    0	    0	    0	    729	    0	    0	    0	    0	    1	
+
+    5	    11	    0	    0	    0	    0	    596	    2	    0	    16	    3	
+
+    6	    17	    0	    0	    0	    6	    5	    660	    0	    2	    0	
+
+    7	    0	    0	    0	    1	    0	    0	    0	    565	    0	    0	
+
+    8	    85	    0	    1	    0	    0	    16	    1	    0	    553	    4	
+
+    9	    3	    0	    2	    0	    0	    0	    0	    1	    5	    770	
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Caracteristicas do banco de dados: Acurácia, especificidade, sensibilitade.
+
+			- - - - Classe 0 - - - -
+
+Acurácia: 0.956353	 Especificidade: 0.972070	 Sensibilitade: 0.768786
+
+
+			- - - - Classe 1 - - - -
+
+Acurácia: 1.000000	 Especificidade: 1.000000	 Sensibilitade: 1.000000
+
+
+			- - - - Classe 2 - - - -
+
+Acurácia: 0.997204	 Especificidade: 0.997717	 Sensibilitade: 0.993280
+
+
+			- - - - Classe 3 - - - -
+
+Acurácia: 0.999066	 Especificidade: 0.999305	 Sensibilitade: 0.997033
+
+
+			- - - - Classe 4 - - - -
+
+Acurácia: 0.998755	 Especificidade: 0.999824	 Sensibilitade: 0.990489
+
+
+			- - - - Classe 5 - - - -
+
+Acurácia: 0.989824	 Especificidade: 0.994536	 Sensibilitade: 0.946032
+
+
+			- - - - Classe 6 - - - -
+
+Acurácia: 0.993500	 Especificidade: 0.994819	 Sensibilitade: 0.982143
+
+
+			- - - - Classe 7 - - - -
+
+Acurácia: 0.999689	 Especificidade: 0.999829	 Sensibilitade: 0.998233
+
+
+			- - - - Classe 8 - - - -
+
+Acurácia: 0.957209	 Especificidade: 0.982089	 Sensibilitade: 0.754434
+
+
+			- - - - Classe 9 - - - -
+
+Acurácia: 0.996585	 Especificidade: 0.998057	 Sensibilitade: 0.985915
+

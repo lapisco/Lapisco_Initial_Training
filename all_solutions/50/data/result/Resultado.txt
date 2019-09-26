@@ -1,0 +1,10 @@
+Energy = 1448.655640
+Contrast = 226.641617
+Homonenity = 0.506363
+IDM = 0.156416
+Entropy = 2.823666
+AngularSecondMoment = 6.166640
+Correlation = 0.086383
+SumAvagere = 268.492584
+SumVariance = 0.154167
+SumEntropy = 115069.125000
